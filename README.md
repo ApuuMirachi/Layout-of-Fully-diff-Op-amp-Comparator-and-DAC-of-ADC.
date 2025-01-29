@@ -1,1 +1,1 @@
-# Layout-of-Fully-diff-Op-amp-Comparator-and-DAC-of-ADC.
+sample
